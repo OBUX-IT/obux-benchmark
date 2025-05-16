@@ -8,18 +8,18 @@ A complete suite for measuring and reporting system and user‐interaction perfo
 
 ## 📖 Table of Contents
 
-1. [What’s Inside This Release](#whats-inside-this-release)
-2. [Key Features](#key-features)
-3. [Prerequisites](#prerequisites)
-4. [Installation & Usage](#installation--usage)
+1. [What’s Inside This Release](?tab=readme-ov-file#whats-inside-this-release)
+2. [Key Features](?tab=readme-ov-file#key-features)
+3. [Prerequisites](?tab=readme-ov-file#prerequisites)
+4. [Installation & Usage](?tab=readme-ov-file#installation--usage)
 
-   * [GUI Mode](#gui-mode)
-   * [Silent Mode](#silent-mode)
-   * [Command-Line Arguments](#command-line-arguments)
-   * [Manual Installation (Optional)](#manual-installation-optional)
-5. [How It Works](#how-it-works)
-6. [Troubleshooting](#troubleshooting)
-7. [Support & Contributing](#support--contributing)
+   * [GUI Mode](?tab=readme-ov-file#gui-mode)
+   * [Silent Mode](?tab=readme-ov-file#silent-mode)
+   * [Command-Line Arguments](?tab=readme-ov-file#command-line-arguments)
+   * [Manual Installation (Optional)](?tab=readme-ov-file#manual-installation-optional)
+5. [How It Works](?tab=readme-ov-file#how-it-works)
+6. [Troubleshooting](?tab=readme-ov-file#troubleshooting)
+7. [Support & Contributing](?tab=readme-ov-file#support--contributing)
 
 ---
 
