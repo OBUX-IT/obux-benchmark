@@ -1,6 +1,6 @@
 # OBUX Benchmark & Bootstrapper
 
-**Version 0.2.5** • *Last updated: November 2025*
+**Version 0.1.5** • *Last updated: May 2026*
 
 A complete suite for measuring and reporting system and user‐interaction performance, plus a lightweight updater/launcher to keep you on the latest build.
 
